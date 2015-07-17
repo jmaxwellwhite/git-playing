@@ -1,7 +1,5 @@
 This is for playing around. To show checkout and other diff uses.
 
-Something...
-
 I'll show how to do something useful.
 
-oh wait I didn't change anything
+I didn't change anything but did I?
